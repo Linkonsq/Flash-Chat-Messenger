@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "902398880480",
+    "firebase_url": "https://flash-chat-cc807.firebaseio.com",
+    "project_id": "flash-chat-cc807",
+    "storage_bucket": "flash-chat-cc807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902398880480:android:8d79c4e1785a50398dfe85",
+        "android_client_info": {
+          "package_name": "com.linkonsiddique.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902398880480-lpfsv1sksp9h9dsbq7cjfe00kv1o8aqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7CNwiOKxk8_PPKa7djq5VBDIO1tfPlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902398880480-lpfsv1sksp9h9dsbq7cjfe00kv1o8aqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
